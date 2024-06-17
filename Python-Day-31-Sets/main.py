@@ -9,3 +9,13 @@ print(type(harry))
 
 for value in info:
   print(value)
+
+obj = {'a',3,4,'f',7,3}
+print(obj)
+print(type(obj))
+
+obj_2 ={}
+print(type(obj_2))
+
+for i in obj:
+  print(i)
